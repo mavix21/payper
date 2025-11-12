@@ -1,5 +1,5 @@
 {
-  "name": "@myapp/tsconfig",
+  "name": "@payper/tsconfig",
   "private": true,
   "files": [
     "*.json"

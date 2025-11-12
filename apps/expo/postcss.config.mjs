@@ -1,1 +1,1 @@
-export { default } from "@myapp/tailwind-config/postcss-config";
+export { default } from "@payper/tailwind-config/postcss-config";

@@ -11,10 +11,10 @@
   },
   "iconLibrary": "lucide",
   "aliases": {
-    "components": "@myapp/ui/components",
-    "utils": "@myapp/ui/lib/utils",
-    "hooks": "@myapp/ui/hooks",
-    "lib": "@myapp/ui/lib",
-    "ui": "@myapp/ui/components"
+    "components": "@payper/ui/components",
+    "utils": "@payper/ui/lib/utils",
+    "hooks": "@payper/ui/hooks",
+    "lib": "@payper/ui/lib",
+    "ui": "@payper/ui/components"
   }
 }

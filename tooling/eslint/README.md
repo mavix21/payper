@@ -1,3 +1,3 @@
-# `@myapp/eslint-config`
+# `@payper/eslint-config`
 
 Shared eslint configuration for the workspace.

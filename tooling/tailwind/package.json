@@ -1,5 +1,5 @@
 {
-  "name": "@myapp/tailwind-config",
+  "name": "@payper/tailwind-config",
   "private": true,
   "type": "module",
   "exports": {
@@ -19,13 +19,13 @@
     "@tailwindcss/postcss": "catalog:"
   },
   "devDependencies": {
-    "@myapp/eslint-config": "workspace:*",
-    "@myapp/prettier-config": "workspace:*",
-    "@myapp/tsconfig": "workspace:*",
+    "@payper/eslint-config": "workspace:*",
+    "@payper/prettier-config": "workspace:*",
+    "@payper/tsconfig": "workspace:*",
     "@types/node": "catalog:",
     "eslint": "catalog:",
     "prettier": "catalog:",
     "typescript": "catalog:"
   },
-  "prettier": "@myapp/prettier-config"
+  "prettier": "@payper/prettier-config"
 }

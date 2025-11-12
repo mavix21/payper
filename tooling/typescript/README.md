@@ -1,3 +1,3 @@
-# `@myapp/tsconfig`
+# `@payper/tsconfig`
 
 Shared typescript configuration for the workspace.
