@@ -16,7 +16,6 @@
   },
   "dependencies": {
     "@payper/convex": "workspace:*",
-    "@payper/db": "workspace:*",
     "@payper/ui": "workspace:*",
     "@t3-oss/env-nextjs": "^0.13.8",
     "@tabler/icons-react": "^3.35.0",
