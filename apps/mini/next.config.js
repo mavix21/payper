@@ -7,7 +7,7 @@ await jiti.import("./src/env");
 
 /** @type {import("next").NextConfig} */
 const nextConfig = {
-  transpilePackages: ["@payper/db", "@payper/ui"],
+  transpilePackages: ["@payper/ui"],
 
   typedRoutes: true,
   typescript: { ignoreBuildErrors: true },

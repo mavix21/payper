@@ -9,7 +9,7 @@ await jiti.import("./src/env");
 /** @type {import("next").NextConfig} */
 const config = {
   /** Enables hot reloading for local packages without a build step */
-  transpilePackages: ["@payper/db", "@payper/ui"],
+  transpilePackages: ["@payper/ui"],
 
   typedRoutes: true,
   typescript: { ignoreBuildErrors: true },
